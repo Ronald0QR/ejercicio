@@ -1,0 +1,2 @@
+Lo visto en la clase anterio fue.
+Aprender principalmente para que sirve git y una serie de comandos para configurar usuarios, editor de códigos, carpetas de proyectos. 

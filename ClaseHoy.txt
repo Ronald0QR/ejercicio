@@ -1,0 +1,2 @@
+clase hoy
+Que es un sistema de control de versiones. pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
